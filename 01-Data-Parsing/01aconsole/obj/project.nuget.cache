@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s5tmDim4Jbs=",
+  "dgSpecHash": "bktPZTZfwWs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\eqwoa\\Desktop\\System-Integration-Mandatory-Assignments\\01aconsole\\01aconsole.csproj",
+  "projectFilePath": "C:\\Users\\eqwoa\\Desktop\\System-Integration-Mandatory-Assignments\\01-Data-Parsing\\01aconsole\\01aconsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eqwoa\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
     "C:\\Users\\eqwoa\\.nuget\\packages\\yamldotnet\\16.3.0\\yamldotnet.16.3.0.nupkg.sha512"

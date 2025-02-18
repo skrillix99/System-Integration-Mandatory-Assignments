@@ -11,7 +11,7 @@ class Program01a
 {
     static void Main()
     {
-        string basePath = @"C:\Users\eqwoa\Desktop\System-Integration-Mandatory-Assignments\";  // basepath fordi at filerne ikke ligger i samme folder som projektet
+        string basePath = @"C:\Users\eqwoa\Desktop\System-Integration-Mandatory-Assignments\01-Data-Parsing";  // basepath fordi at filerne ikke ligger i samme folder som projektet
 
 
         //simpel da ingen serialization nødvendig

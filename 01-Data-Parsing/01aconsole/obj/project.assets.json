@@ -95,11 +95,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eqwoa\\Desktop\\System-Integration-Mandatory-Assignments\\01aconsole\\01aconsole.csproj",
+      "projectUniqueName": "C:\\Users\\eqwoa\\Desktop\\System-Integration-Mandatory-Assignments\\01-Data-Parsing\\01aconsole\\01aconsole.csproj",
       "projectName": "01aconsole",
-      "projectPath": "C:\\Users\\eqwoa\\Desktop\\System-Integration-Mandatory-Assignments\\01aconsole\\01aconsole.csproj",
+      "projectPath": "C:\\Users\\eqwoa\\Desktop\\System-Integration-Mandatory-Assignments\\01-Data-Parsing\\01aconsole\\01aconsole.csproj",
       "packagesPath": "C:\\Users\\eqwoa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eqwoa\\Desktop\\System-Integration-Mandatory-Assignments\\01aconsole\\obj\\",
+      "outputPath": "C:\\Users\\eqwoa\\Desktop\\System-Integration-Mandatory-Assignments\\01-Data-Parsing\\01aconsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eqwoa\\AppData\\Roaming\\NuGet\\NuGet.Config"
